@@ -1,12 +1,11 @@
-# 中科院机器学习
+# Machine Learning of Chineses Academy of Sciences
 
-![logo](https://github.com/ravenwhat/Sensation/blob/master/app/src/main/res/mipmap-hdpi/nikeshoes.jpg)
+##This is an application for step identification by using SVM model.
 
-[百度一下](http://www.baidu.com)
+![logo](https://github.com/ravenwhat/Sensation/blob/master/shots/sensation3.jpg)
 
-## 学习内容
+![logo](https://github.com/ravenwhat/Sensation/blob/master/shots/sensation2.jpg)
 
-## 课程总结
+![logo](https://github.com/ravenwhat/Sensation/blob/master/shots/sensation1.jpg)
 
-## 心得体会
 
